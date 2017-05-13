@@ -1,4 +1,5 @@
-## Python toys?
+Python toys?
+============
 
 Just having fun, was watching matrix, and stared to toy around with some
 console output.
@@ -12,8 +13,8 @@ and now I want to create a rock in the middle of the stream, so will have to sho
 some type of disruption, along with the stone not moving ...
 
 
-Turtle examples.
-================
+##Turtle examples.
+
 
 graphic_sine is another sine example, another in progress mini-proj
 
