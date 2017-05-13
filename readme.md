@@ -12,6 +12,13 @@ and now I want to create a rock in the middle of the stream, so will have to sho
 some type of disruption, along with the stone not moving ...
 
 
+Turtle examples.
+================
+
+graphic_sine is another sine example, another in progress mini-proj
+
+
+
 should be fun!
 
 Enjoy.
