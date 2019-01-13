@@ -35,6 +35,7 @@ def main():
 
     init_window(screen_width, screen_height, "the moving fox?")
 
+
     set_target_fps(60)
 
 
@@ -46,10 +47,11 @@ def main():
         # cleans window
         clear_background(BLACK)
 
+        draw_rectangle(10, 0, screen_width-20, 25, WHITE)
 
 
         x_pos = 200
-        y_pos = 10
+        y_pos = 30
         y_shift = 0
 
         for x_shift in wave:
