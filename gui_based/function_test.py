@@ -16,10 +16,34 @@ def sin_list_build():
     return angle_list
 
 
+
+
+
+
 def main():
     wave = sin_list_build()
 
-    print(wave)
+    a_list = [0, 1, 3, 4, 6, 7, 8, 9, 9, 10, 9, 9, 8, 7, 6, 4, 3, 1]
+    a_len = len(a_list)
+    b_list = []
+    c_list = a_list
+    r_cycle = 0
+
+    #for elm in a_list:
+    while r_cycle < 17:
+
+        if len(b_list) < 9:
+            b_list.append(a_list[r_cycle])
+        else:
+            b_list.pop(0)
+            b_list.append(a_list[r_cycle])
+
+        print("-------\n")
+        print(b_list)
+        print(len(b_list))
+        print(a_list)
+        r_cycle += 1
+
 
 
 if __name__ == '__main__':

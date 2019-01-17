@@ -23,6 +23,18 @@ def sin_list_build():
     return angle_list
 
 
+def list_rotate(wave, r_cycle, b_list):
+
+    a_list = wave
+
+
+    if len(b_list) < 9:
+        b_list.append(a_list[r_cycle])
+    else:
+        b_list.pop(0)
+        b_list.append(a_list[r_cycle])
+
+    return b_list
 
 
 def main():
@@ -38,6 +50,11 @@ def main():
 
     set_target_fps(60)
 
+    x_pos = 200
+    y_pos = 30
+    y_shift = 0
+    r_cycle = 0
+    b_list = []
 
     while not window_should_close():
 
@@ -49,14 +66,12 @@ def main():
 
         draw_rectangle(10, 0, screen_width-20, 25, WHITE)
 
+        b_list = list_rotate(wave, r_cycle, b_list)
 
-        x_pos = 200
-        y_pos = 30
-        y_shift = 0
-
-        for x_shift in wave:
+        for x_shift in b_list:
             draw_text(data, x_pos+x_shift, y_pos+y_shift, 15, GREEN)
-            y_shift += 12
+            r_cycle += 1
+            y_shift += 10
 
 
         end_drawing()
