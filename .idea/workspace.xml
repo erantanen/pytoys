@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed18442-dd06-4087-b5ee-5971f8193e5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gui_based/bw_mov_pixel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui_based/bw_mov_pixel_with_keypress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_based/basic_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_based/basic_window.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,59 +16,68 @@
     <session id="-602206395">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="md" value="1" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1692" />
+          <entry key="py" value="2346" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1692" />
+          <entry key="Python" value="2346" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gui_based/basic_window.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui_based/bw_moving_txt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui_based/bw_mov_pixel_with_keypress.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/text_based/vert_sine_scrolling.py">
+        <entry file="file://$PROJECT_DIR$/gui_based/bw_mov_pixel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -75,10 +85,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gui_based/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="435">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui_based/function_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_based/vert_sine_scrolling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="30" selection-start-line="14" selection-end-line="30" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,13 +136,16 @@
         <option value="$PROJECT_DIR$/gui_based/scratch.py" />
         <option value="$PROJECT_DIR$/text_based/vert_sine_scrolling.py" />
         <option value="$PROJECT_DIR$/gui_based/basic_window.py" />
+        <option value="$PROJECT_DIR$/gui_based/blah.py" />
+        <option value="$PROJECT_DIR$/gui_based/bw_mov_pixel.py" />
+        <option value="$PROJECT_DIR$/gui_based/bw_mov_pixel_with_keypress.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="24" />
-    <option name="width" value="1339" />
+    <option name="x" value="814" />
+    <option name="y" value="52" />
+    <option name="width" value="1338" />
     <option name="height" value="953" />
   </component>
   <component name="ProjectView">
@@ -148,6 +182,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gui_based" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/text_based" />
     </key>
@@ -164,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_window">
+  <component name="RunManager" selected="Python.bw_mov_pixel_with_keypress">
     <configuration name="basic_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytoys" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="blah" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytoys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +235,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/function_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/blah.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bw_mov_pixel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytoys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/bw_mov_pixel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_pick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bw_mov_pixel_with_keypress" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytoys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui_based" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/bw_mov_pixel_with_keypress.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vert_sine_scrolling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bw_moving_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytoys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_based" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui_based" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_based/vert_sine_scrolling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_based/bw_moving_txt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,18 +309,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.basic_window" />
-      <item itemvalue="Python.function_test" />
-      <item itemvalue="Python.test_pick" />
-      <item itemvalue="Python.scratch" />
-      <item itemvalue="Python.vert_sine_scrolling" />
+      <item itemvalue="Python.blah" />
+      <item itemvalue="Python.bw_mov_pixel" />
+      <item itemvalue="Python.bw_moving_txt" />
+      <item itemvalue="Python.bw_mov_pixel_with_keypress" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bw_mov_pixel_with_keypress" />
+        <item itemvalue="Python.bw_moving_txt" />
+        <item itemvalue="Python.bw_mov_pixel" />
+        <item itemvalue="Python.blah" />
         <item itemvalue="Python.basic_window" />
-        <item itemvalue="Python.vert_sine_scrolling" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.function_test" />
-        <item itemvalue="Python.test_pick" />
       </list>
     </recent_temporary>
   </component>
@@ -301,15 +338,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="216" y="23" width="1339" height="953" extended-state="0" />
+    <frame x="646" y="33" width="1338" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23596358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20673636" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.101045296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,20 +388,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/raylib/basic_window.py" />
     <entry file="file://$PROJECT_DIR$/test_pick.py" />
-    <entry file="file://$PROJECT_DIR$/gui_based/function_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text_based/vert_sin_moving_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="5" selection-start-line="19" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="e#234#245#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,9 +402,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_based/basic_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_based/blah.py" />
+    <entry file="file://$PROJECT_DIR$/gui_based/bw_mov_pixel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gui_based/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="435">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -385,20 +437,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gui_based/function_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/text_based/vert_sine_scrolling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="261">
+          <caret line="30" selection-start-line="14" selection-end-line="30" />
           <folding>
             <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gui_based/basic_window.py">
+    <entry file="file://$PROJECT_DIR$/gui_based/bw_moving_txt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui_based/bw_mov_pixel_with_keypress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
