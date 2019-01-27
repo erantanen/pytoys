@@ -1,6 +1,13 @@
 Python toys?
 ============
 
+Update:
+Trying out raylib/python.
+
+Taking a bit to look at the raylib cheat sheet (in c) then figure out syntax
+But is fun so far. 
+
+
 Just having fun, was watching matrix, and stared to toy around with some
 console output.
 
