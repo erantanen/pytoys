@@ -15,7 +15,7 @@ def main():
     pause = False
     pos_x = 0
 
-    c_list = [0, 1, 3, 4, 6, 7, 8, 9, 9, 10, 9, 9, 8, 7, 6, 4, 3, 1,0]
+    c_list = [0, 1, 3, 4, 6, 7, 8, 9, 9, 10, 9, 9, 8, 7, 6, 4, 3, 1, 0]
 
     init_window(screen_width, screen_height, "the moving fox?")
 
