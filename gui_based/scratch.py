@@ -29,6 +29,9 @@ def it_dict(c_list):
     return dict_sine
 
 
+
+
+
 def main():
     triger = 0
     end = 100
